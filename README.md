@@ -1,4 +1,4 @@
-# Gtk in-app notification demo
+# GTK in-app notification demo
 
 This repo contains a small demo _in-app notifications_ for [GTK](https://gtk.org). In-app notifications [are part of GTK](https://developer.gnome.org/hig/stable/in-app-notifications.html.en),
 but there's no special widget. Instead it can be created by combining existing widgets and applying style classes.
